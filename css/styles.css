@@ -1,7 +1,15 @@
 body {
-  background-color: #423F3E;
+  background-color: black;
+  color: grey;
 }
 hr{
-  border-color: #362222;
+  border-color: red;
   border-width: 1px;
+}
+h1 {
+  color: red;
+}
+h3 {
+  color: white;
+  font-family: papyrus; 
 }
