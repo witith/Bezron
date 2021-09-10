@@ -1,6 +1,7 @@
 body {
   background-color: black;
-  color: grey;
+  color:grey;
+
 }
 hr{
   border-color: red;
@@ -11,5 +12,16 @@ h1 {
 }
 h3 {
   color: white;
-  font-family: papyrus; 
+  font-family: papyrus;
+}
+.Intro {
+  background-color: black;
+    margin-right: 60%;
+}
+.birth {
+  margin-right: 60%;
+}
+#bezpic {
+  position:relative;
+  
 }
